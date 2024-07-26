@@ -1,4 +1,4 @@
-# z-one-core-producer
+# Java-Quarkus-Resilient-Microservices
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
